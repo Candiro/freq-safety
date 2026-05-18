@@ -2,13 +2,12 @@
 
 **Frequency Signature Analysis Framework for Emergent Misalignment Detection**
 
-> *"We don't just look at what models output. We measure how they *move*."*
-
 FREQ-SAFE is a framework for detecting emergent misalignment in AI systems
-through **frequency-domain analysis of behavioral time series**. Rather than
-analyzing model weights, activations, or individual outputs, it treats model
-behavior as a signal and extracts **frequency signatures** — compressed
-fingerprints of behavioral state.
+through **frequency-domain analysis of behavioral time series**. Instead of
+analyzing model weights or activations at individual points in time, it treats
+model behavior as a signal and extracts **frequency signatures** — compressed
+fingerprints of behavioral state that capture rhythm, noise, and regime
+changes over time.
 
 ---
 
