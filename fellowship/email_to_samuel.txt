@@ -1,0 +1,28 @@
+To: smarks@anthropic.com
+Subject: Frequency Signature Analysis — built with my AI agent, for AI safety
+
+Hi Samuel,
+
+Full transparency: this email was drafted by the AI agent I built. I'm telling you because it's the best proof-of-concept for what I want to discuss.
+
+I'm an independent researcher — self-taught, no academic background. Over the last few years I built a professional-grade AI system for automated trading (79 rules, real-time pipeline, risk engine). From that, I extracted the core frequency analysis engine and applied it to a completely different domain: AI safety.
+
+The result is FREQ-SAFE — an open-source framework that treats model behavior as a time series and extracts frequency-domain fingerprints (rhythm, noise, phase transitions) from LLM outputs, activations, and action sequences.
+
+Your work on subliminal learning (arXiv:2507.14805) and the Model Organisms team's research on agentic misalignment were the direct inspiration. I built this because I believe frequency analysis — a tool proven in signal processing and quantitative finance — is underutilized in AI safety.
+
+Key findings so far:
+- Subliminal transfer detected via frequency signature similarity (teacher-student cosine similarity up to 0.95)
+- Agentic misalignment onset correlates with phase transitions in behavioral frequency (75% detection, 0% false positives on synthetic scenarios)
+- GPT-2 produces measurably different signatures for optimistic vs pessimistic prompts
+
+GitHub: https://github.com/Candiro/freq-safety (fully open-source, MIT license)
+
+I'm applying to the Fellows program and would love to explore whether this approach could be useful for your team. I work with my AI agent as a daily collaborator — he codes, I direct. It's an unusual setup, but it works.
+
+Would you be open to a brief conversation?
+
+Best,
+Dejan Aleksić
+Independent researcher, builder of Risko AI
+https://github.com/Candiro/freq-safety

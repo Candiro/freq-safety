@@ -29,7 +29,7 @@ DEFAULT_NOISE_SHORT: int = 20
 DEFAULT_NOISE_LONG: int = 100
 DEFAULT_FREQ_SHORT: int = 20
 DEFAULT_FREQ_LONG: int = 100
-MIN_SERIES_LENGTH: int = 20
+MIN_SERIES_LENGTH: int = 10
 
 
 # ── ZeroCrossingRate (frequency/volatility) ──────────────────────────────────
