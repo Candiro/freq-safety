@@ -123,6 +123,9 @@ python -m pytest tests/ -v
    transitions from cooperative to adversarial behavior
 3. **Training dynamics analysis** — detecting phase boundaries in loss curves
    that correlate with behavioral shifts
+4. **Multi-agent memory optimization** — exploring frequency signature
+   analysis for pattern detection in multi-agent systems (hypothetical,
+   requires validation). [More →](docs/multi_agent_memory.md)
 
 ## Research Context
 
